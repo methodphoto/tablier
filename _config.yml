@@ -1,0 +1,10 @@
+title: "Tablier Cakes"
+theme: minima
+email: janette@method.co.uk
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://tabliercakes.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
+heading_anchors: false
+minima:
+  social_links:
+    - { platform: facebook, user_url: "https://facebook.com/tabliercakes" }
+    - { platform: instagram,  user_url: "https://instagram.com/tabliercakes" }
