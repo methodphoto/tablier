@@ -51,12 +51,13 @@ Figurines, or additional hand-made decorations may be charged extra, depending o
 Vanilla or chocolate only, standard 3” height plain cakes. Prices for larger sizes on request.
 
 -  **Buttercream-iced cakes** and semi-naked cakes. 
-From £35 for a 6” round, standard 3” height cake with message on a plain board (serves 12 slices 1” x 2” x 3”).
+From £35 for a 6” round, standard 3” height cake with message on a plain board (serves 12–24).
 Toppers, fruits, decorations, bespoke flavours, shaped cakes etc. charged extra.
 
 -  **Fondant-iced cakes**
 Standard 3” height, fondant-iced sponge cakes, with ribbon and message only on a plain board. 
-From £45 for a 6” round cake (serves 12–24). Decorations, bespoke flavours, other shapes are charged extra. 
+From £45 for a 6” round cake (serves 12–24). 
+*Decorations, bespoke flavours, other shapes are charged extra.*
 
 ### Extras
 
