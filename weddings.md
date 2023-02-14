@@ -3,7 +3,7 @@ layout: default
 title: Weddings
 ---
 
-### {{page.title}}
+# {{page.title}}
 
 **Please get in touch to arrange a free, no-obligation consultation** to taste cake samples and to discuss your cake design requirements – including budget and number of servings. If you would prefer not to meet in person, I can post cake samples for you to try for a fee of £25 (which will be deducted from your deposit if you decide to book). 
 
