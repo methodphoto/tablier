@@ -17,7 +17,7 @@ I’m a very experienced artist and designer and can create most styles of cake 
 -   <a href="#pricing">Pricing</a>
 -   <a href="#flavours">Cake Flavours & Fillings</a>
 -   <a href="#location">Location and Delivery</a>
--   <a href="#reviews">Reviews</a>
+-   [Reviews](reviews)
 
 ## <span id="ordering">ORDERING</span>
 
