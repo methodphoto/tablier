@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Home
+name: Welcome to Tablier Cakes
 ---
 
-# Welcome to Tablier Cakes.  
+# {{page.name}}
 
 **Beautiful bespoke cakes, hand made to order by cake artist & graphic designer Janette Earney. Any design style, flavour and theme – created to match your individual brief.**
 
@@ -79,14 +80,6 @@ From £45 for a 6” round cake (serves 12–24). Decorations, bespoke flavours,
 -  Box of 6 cupcakes from £20. Handmade toppers or edible photos are charged extra. Local collection.
 -  Treat boxes from £40. A mixed gift box of cupcakes, iced cookies, cakesicles, geodes, chocolates etc.
 
-### Weddings
-
-**Please get in touch to arrange a free, no-obligation consultation** to taste cake samples and to discuss your cake design requirements – including budget and number of servings. If you would prefer not to meet in person, I can post cake samples for you to try for a fee of £25 (which will be deducted from your deposit if you decide to book). 
-
-I will supply a written quotation based on the information you give to me, with some rough sketches or reference photos of your preferred ideas. To confirm your project in my schedule, I will require a non-returnable deposit of £50. Detailed design sketches will then be supplied for your approval, including a mood-board with colour and texture samples, if required. 
-
-The balance payment for your cake will be due 14 days before your event. 
-
 ## <span id="flavours">CAKE FLAVOURS & FILLINGS</span>
 
 All cakes are home baked from scratch using quality ingredients and are filled and layered with buttercream and curd or jam before being covered with a layer of buttercream or chocolate ganache. Iced celebration cakes are then covered with professional sugar paste.
@@ -125,7 +118,3 @@ For **BESPOKE cakes and cupcakes**, choose from the following options:<br />(Min
 I am based in Enfield, North London. For cupcakes and celebration cakes, collection is preferred. Delivery can sometimes be arranged within the local area for a nominal fee, but this depends upon my baking schedule. 
 
 Larger tiered cakes can be delivered and set up at your event venue for a fee of £30 plus my return mileage (and any congestion charges). I have delivered to some wide-ranging locations including Hertfordshire, Essex, Norfolk, Sussex, Hampshire, Devon as well as Central London and London postcodes.
-
-## <span id="flavours">REVIEWS</span>
-
-There are a large number of customer reviews and recommendations on my Tablier Cakes Facebook page - all of them have given me a rating of five stars.
