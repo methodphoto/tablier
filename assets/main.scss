@@ -10,10 +10,12 @@ body {
 }
 
 b, strong {
-	font-weight:700;}
+	font-weight:700;
+}
 	
 em, i {
-	font-style: italic;}
+	font-style: italic;
+}
 
 h1, h2, h3	{
 	font-weight:700;
@@ -27,8 +29,9 @@ h3 {
 	color: #8d5436;
 }
 
-a {color: #268b89;
-text-decoration: none;
+a {
+	color: #268b89;
+	text-decoration: none;
 }
 
 a:hover {
