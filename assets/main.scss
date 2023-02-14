@@ -28,5 +28,13 @@ h3 {
 }
 
 a {color: #268b89;
-text-decoration: underline;
+text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.page-link {
+	color: #268b89;
 }
