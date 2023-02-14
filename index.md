@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Home
-name: Welcome to Tablier Cakes
+header: Welcome to Tablier Cakes
 ---
 
-# {{page.name}}
+# {{page.header}}
 
 **Beautiful bespoke cakes, hand made to order by cake artist & graphic designer Janette Earney. Any design style, flavour and theme – created to match your individual brief.**
 
