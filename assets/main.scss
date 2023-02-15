@@ -38,12 +38,12 @@ a:hover, a:hover.page-link {
 	text-decoration: underline;
 }
 
-a.page-link {
-	color: #268b89;
-	text-decoration: none;
-}
-
 .site-header {
 	margin-top: 10px;
 	border: none;
+}
+
+.site-nav a .page-link a {
+	color: #268b89;
+	text-decoration: none;
 }
