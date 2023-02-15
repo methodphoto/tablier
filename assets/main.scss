@@ -34,11 +34,11 @@ a {
 	text-decoration: none;
 }
 
-a:hover, .page-link a:hover {
+a:hover, a:hover.page-link {
 	text-decoration: underline;
 }
 
-.page-link a {
+a.page-link {
 	color: #268b89;
 	text-decoration: none;
 }
