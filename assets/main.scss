@@ -34,15 +34,16 @@ a {
 	text-decoration: none;
 }
 
-a:hover {
+a:hover, .page-link a:hover {
 	text-decoration: underline;
 }
 
 .page-link a {
 	color: #268b89;
+	text-decoration: none;
 }
 
 .site-header {
-	margin-top: 5px;
+	margin-top: 10px;
 	border: none;
 }
