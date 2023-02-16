@@ -4,12 +4,14 @@
 
 @import "minima";
 
-$primary-color: #268b89;
-$secondary-color: #8d5436;
+$primary-color: #333f48;
+$primary-link-color: #268b89;
+$secondary-link-color: #8d5436;
 
 body {
 	font-family: Livory, serif;
 	font-size: 110%;
+	color: $primary-color;
 }
 
 b, strong {
@@ -25,20 +27,20 @@ h1, h2, h3	{
 }
 
 h1, h2 {
-	color: $primary-color;
+	color: $primary-link-color;
 }
 
 h3 {
-	color: $secondary-color;
+	color: $secondary-link-color;
 }
 
 a {
-	color: $primary-color;
+	color: $primary-link-color;
 	text-decoration: none;
 }
 
 a:hover {
-	color: $secondary-color;
+	color: $secondary-link-color;
 	text-decoration: underline;
 }
 
@@ -48,12 +50,17 @@ a:hover {
 }
 
 a.page-link {
-	color: $primary-color !important;
+	color: $primary-link-color !important;
 	text-decoration: none;
 }
 
 a.page-link:hover {
-	color: $secondary-color !important;
+	color: $secondary-link-color !important;
+	text-decoration: underline;
+}
+
+a:hover.page-link {
+	color: $secondary-link-color !important;
 	text-decoration: underline;
 }
 
