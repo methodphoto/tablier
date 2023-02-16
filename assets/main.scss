@@ -4,6 +4,9 @@
 
 @import "minima";
 
+$primary-color: #268b89;
+$secondary-color: #8d5436;
+
 body {
 	font-family: Livory, serif;
 	font-size: 110%;
@@ -22,19 +25,20 @@ h1, h2, h3	{
 }
 
 h1, h2 {
-	color: #268b89;
+	color: $primary-color;
 }
 
 h3 {
-	color: #8d5436;
+	color: $secondary-color;
 }
 
 a {
-	color: #268b89;
+	color: $primary-color;
 	text-decoration: none;
 }
 
 a:hover {
+	color: $secondary-color;
 	text-decoration: underline;
 }
 
@@ -44,8 +48,13 @@ a:hover {
 }
 
 a.page-link {
-	color: #268b89 !important;
+	color: $primary-color !important;
 	text-decoration: none;
+}
+
+a.page-link:hover {
+	color: $secondary-color !important;
+	text-decoration: underline;
 }
 
 .site-nav {
