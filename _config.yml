@@ -5,11 +5,11 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://tabliercakes.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 heading_anchors: false
 header-pages:
-    - home.markdown
-    - pricing.markdown
-    - flavours.markdown
-    - reviews.markdown
-    - weddings.markdown
+    - index.md
+    - pricing.md
+    - flavours.md
+    - reviews.md
+    - weddings.md
 minima:
   social_links:
     - { platform: facebook, user_url: "https://facebook.com/tabliercakes" }
