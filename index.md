@@ -127,12 +127,12 @@ Larger tiered cakes can be delivered and set up at your event venue for a fee of
 
 <div class="gallery">
 
-<img src="/assets/images/01.jpg" alt="A range of celebration cakes" width="80%" />
+<img src="/tablier//assets/images/01.jpg" alt="A range of celebration cakes" width="80%" />
 
 </div>
 
 <div class="gallery">
 
-<img src="/assets/images/02.jpg" alt="A range of celebration cakes" width="80%" />
+<img src="/tablier/assets/images/02.jpg" alt="A range of celebration cakes" width="80%" />
 
 </div>
