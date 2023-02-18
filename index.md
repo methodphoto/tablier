@@ -21,7 +21,7 @@ I’m a very experienced artist and designer and can create most styles of cake 
 
 ## <span id="ordering">ORDERING</span>
 
-The fastest way to contact me is to text or WhatsApp me on 07973 886805. 
+The fastest way to contact me is to text or WhatsApp me on 07973 886805 
 
 Please try to get in touch early, as I am often booked up quite far in advance.
 
