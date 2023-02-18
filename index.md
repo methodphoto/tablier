@@ -18,6 +18,7 @@ I’m a very experienced artist and designer and can create most styles of cake 
 -   <a href="#flavours">Cake Flavours & Fillings</a>
 -   <a href="#location">Location and Delivery</a>
 -   [Reviews](reviews)
+-   <a href="#gallery">Gallery</a>
 
 ## <span id="ordering">ORDERING</span>
 
@@ -121,3 +122,17 @@ For **BESPOKE cakes and cupcakes**, choose from the following options:<br />(Min
 I am based in Enfield, North London. For cupcakes and celebration cakes, collection is preferred. Delivery can sometimes be arranged within the local area for a nominal fee, but this depends upon my baking schedule. 
 
 Larger tiered cakes can be delivered and set up at your event venue for a fee of £30 plus my return mileage (and any congestion charges). I have delivered to some wide-ranging locations including Hertfordshire, Essex, Norfolk, Sussex, Hampshire, Devon as well as Central London and London postcodes.
+
+## <span id="gallery">GALLERY</span>
+
+<div class="gallery">
+
+![A range of celebration cakes](/assets/images/01.jpg)
+
+</div>
+
+<div class="gallery">
+
+![A range of celebration cakes](/assets/images/02.jpg)
+
+</div>
