@@ -51,16 +51,16 @@ These can be made in a very wide range of flavours, shapes and sizes, to suit yo
 ### Simple Cakes
 
 Vanilla or chocolate only, standard 3” height plain cakes.<br />
-<span=class="small">*Prices for larger sizes on request.*</span> 
+<span class="small">*Prices for larger sizes on request.*</span> 
 
 -  **Buttercream-iced cakes** and semi-naked cakes. 
-From £35 for a 6” round, standard 3” height cake with message on a plain board (serves 12–24).
-Toppers, fruits, decorations, bespoke flavours, shaped cakes etc. charged extra.
+From £35 for a 6” round, standard 3” height cake with message on a plain board (*serves 12–24*).<br />
+<span class="small">*Toppers, fruits, decorations, bespoke flavours, shaped cakes etc. charged extra.*</span>
 
 -  **Fondant-iced cakes**
 Standard 3” height, fondant-iced sponge cakes, with ribbon and message only on a plain board. 
-From £45 for a 6” round cake (serves 12–24). 
-*Decorations, bespoke flavours, other shapes are charged extra.*
+From £45 for a 6” round cake (*serves 12–24*). 
+<span class="small">*Decorations, bespoke flavours, other shapes are charged extra.*</span>
 
 ### Extras
 
@@ -75,9 +75,8 @@ From £45 for a 6” round cake (serves 12–24).
 
 **Minimum 12 of any one flavour, as I bake to order.**
 
-£30 for a box of 12 deep-filled cupcakes with buttercream swirl and sprinkles, in your choice of colour theme. 
-
-£40 upwards for a box of 12 with bespoke fondant designs of your choice, or edible photo toppers
+-  £30 for a box of 12 deep-filled cupcakes with buttercream swirl and sprinkles, in your choice of colour theme. 
+-  £40 upwards for a box of 12 with bespoke fondant designs of your choice, or edible photo toppers
 
 ### Occasional Specials
  
@@ -104,7 +103,7 @@ For **BESPOKE cakes and cupcakes**, choose from the following options:<br />(Min
 -  **Orange Drizzle** – *with fresh orange buttercream and orange curd*
 -  **Banoffee** – *banana cake with banana split buttercream and caramel sauce* 
 -  **Coffee & Walnut** – *with coffee buttercream*
--  **Apple & Cinnamon Crumble** – *with apple & cinnamon buttercream, Bramley apple, and shortbread crumble*
+-  **Apple & Cinnamon Crumble** – *with apple & cinnamon buttercream, Bramley apple sauce, and shortbread crumble*
 -  **Spiced Carrot & Orange** – *optional dried fruits, with fresh orange buttercream and orange curd*
 -  **Carrot & Walnut** – *with crushed walnuts and vanilla buttercream*
 -  **Coconut & Lime** – *coconut sponge with key lime buttercream*
