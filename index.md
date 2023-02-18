@@ -35,13 +35,13 @@ Prices vary depending on the size, shape and height of the cake required and the
 
 These can be made in a very wide range of flavours, shapes and sizes, to suit your brief. Enquire for price options.
 
--  **Bespoke Designs** - custom design just for you. 5" height fondant iced cakes with a high level of decorative detail. From £80 for a 6” round, iced and decorated cake (serves 12–24).<br />
-*Figurines, or additional hand-made decorations may be charged extra, depending on your choice of design.*
+-  **Bespoke Designs** - custom designed just for you. 5" height fondant iced cakes with a high level of decorative detail. From £80 for a 6” round, iced and decorated cake (*serves 12–24*).<br />
+<span class="small">*Figurines, or additional hand-made decorations may be charged extra, depending on your choice of design.*</span>
 
--  **Extra tall and Drip cakes** – buttercream or ganache covered. With bespoke topper and decorations (e.g. drip, chocolates etc). From £100 for a 6” round cake - serves 24-30.<br />
-*Figurines, or additional hand-made decorations may be charged extra, depending on your choice of design.*
+-  **Extra tall and Drip cakes** – buttercream or ganache covered. With bespoke topper and decorations (e.g. drip, chocolates etc). From £100 for a 6” round cake - (*serves 24-30*).<br />
+<span class="small">*Figurines, or additional hand-made decorations may be charged extra, depending on your choice of design.*</span>
 
--  **Tiered cakes** start from £130 for the smallest two tier options. Prices for larger sizes on request. 
+-  **Tiered cakes** start from £130 for the smallest two tier options.<br /> <span=class="small">*Prices for larger sizes on request.*</span> 
 
 -  **Hand-carved illusion cakes** from £150 e.g. designer handbags, cameras, cars, musical instruments, animals.
 
@@ -49,7 +49,8 @@ These can be made in a very wide range of flavours, shapes and sizes, to suit yo
 
 ### Simple Cakes
 
-Vanilla or chocolate only, standard 3” height plain cakes. Prices for larger sizes on request.
+Vanilla or chocolate only, standard 3” height plain cakes.<br />
+<span=class="small">*Prices for larger sizes on request.*</span> 
 
 -  **Buttercream-iced cakes** and semi-naked cakes. 
 From £35 for a 6” round, standard 3” height cake with message on a plain board (serves 12–24).
