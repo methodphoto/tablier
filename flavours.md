@@ -1,5 +1,6 @@
 ---
 layout: default
+nav_order: 30
 title: Flavours
 header: Cake Flavours & Fillings
 ---
