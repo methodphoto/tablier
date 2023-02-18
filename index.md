@@ -73,14 +73,14 @@ From £45 for a 6” round cake (*serves 12–24*).
 
 ### Cupcakes
 
-**Minimum 12 of any one flavour, as I bake to order.**
+**Minimum 12 of any one flavour, as I bake to order. Local collection.**
 
 -  £30 for a box of 12 deep-filled cupcakes with buttercream swirl and sprinkles, in your choice of colour theme. 
 -  £40 upwards for a box of 12 with bespoke fondant designs of your choice, or edible photo toppers
 
 ### Occasional Specials
  
--  Box of 6 cupcakes from £20. Handmade toppers or edible photos are charged extra. Local collection.
+-  Box of 6 cupcakes from £20. Handmade toppers or edible photos are charged extra. 
 -  Treat boxes from £40. A mixed gift box of cupcakes, iced cookies, cakesicles, geodes, chocolates etc.
 
 ## <span id="flavours">CAKE FLAVOURS & FILLINGS</span>
