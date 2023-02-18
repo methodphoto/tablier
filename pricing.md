@@ -1,6 +1,5 @@
 ---
 layout: default
-nav_order: 20
 title: Pricing
 header: Pricing
 ---
