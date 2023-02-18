@@ -41,7 +41,8 @@ These can be made in a very wide range of flavours, shapes and sizes, to suit yo
 -  **Extra tall and Drip cakes** – buttercream or ganache covered. With bespoke topper and decorations (e.g. drip, chocolates etc). From £100 for a 6” round cake - (*serves 24-30*).<br />
 <span class="small">*Figurines, or additional hand-made decorations may be charged extra, depending on your choice of design.*</span>
 
--  **Tiered cakes** start from £130 for the smallest two tier options.<br /> <span=class="small">*Prices for larger sizes on request.*</span> 
+-  **Tiered cakes** start from £130 for the smallest two tier options.<br /> 
+<span class="small">*Prices for larger sizes on request.*</span> 
 
 -  **Hand-carved illusion cakes** from £150 e.g. designer handbags, cameras, cars, musical instruments, animals.
 
