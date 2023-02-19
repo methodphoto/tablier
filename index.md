@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-header: Welcome to Tablier Cakes
+header: Welcome to Tablier&nbsp;Cakes
 ---
 
 # {{page.header}}
