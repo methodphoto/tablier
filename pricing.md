@@ -29,7 +29,6 @@ These can be made in a very wide range of flavours, shapes and sizes, to suit yo
 ### Simple Cakes
 
 Vanilla or chocolate only, standard 3” height plain cakes.<br />
-<span class="small">*Prices for larger sizes on request.*</span> 
 
 -  **Buttercream-iced cakes** and semi-naked cakes. 
 From £35 for a 6” round, standard 3” height cake with message on a plain board (*serves 12–24*).<br />
