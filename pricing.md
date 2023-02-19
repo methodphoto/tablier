@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Pricing
-header: Pricing
+title: Cake Pricing
+header: Cake Pricing
 ---
 
 # {{page.header}}

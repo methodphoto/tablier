@@ -1,0 +1,22 @@
+body {
+	font-size: 90%;
+}
+
+.small {
+	font-size: 80%;
+}
+
+a {
+	color: $primary-link-color;
+	text-decoration: underline;
+}
+
+a.page-link {
+	color: $primary-link-color !important;
+	text-decoration: underline;
+}
+
+a:hover.page-link {
+	color: $secondary-link-color !important;
+	text-decoration: underline;
+}
