@@ -25,6 +25,7 @@ These can be made in a very wide range of flavours, shapes and sizes, to suit yo
 
 -  **Hand-painted cakes** from £100 per tier.
 
+
 ### Simple Cakes
 
 Vanilla or chocolate only, standard 3” height plain cakes.<br />
