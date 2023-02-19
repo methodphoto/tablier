@@ -11,8 +11,6 @@ header: Welcome to Tablier Cakes
 I also make simpler cakes, cupcakes, brownies, and iced biscuits.<br />
 Level 2 Food Hygiene, EHO Registered and full public liability insurance. Member of the Sugarcraft Guild.
 
-My up-to-date cake portfolios can be viewed on my Tablier Cakes [Facebook](http://facebook.com/TablierCakes) and [Instagram](http://instagram.com/tabliercakes) pages - I don’t upload many onto this website.
-
 -   <a href="#ordering">Ordering</a>
 -   <a href="#pricing">Pricing</a>
 -   <a href="#flavours">Cake Flavours & Fillings</a>
@@ -38,7 +36,12 @@ I’m a very experienced artist and designer and can create most styles of cake 
 -   [Reviews](reviews)
 -   [Weddings](weddings)
 
-## <span id="gallery">GALLERY</span>
+## GALLERY
+
+Here is a small selection of my cakes.
+
+My up-to-date cake portfolios can be viewed on my Tablier Cakes [Facebook](http://facebook.com/TablierCakes) and [Instagram](http://instagram.com/tabliercakes) pages - I don’t upload many onto this website.
+
 
 <div class="gallery">
 
