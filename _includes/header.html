@@ -16,21 +16,12 @@
 </svg>
           </span>
         </label>
-
-        <div class="trigger">
-        
+        <div class="trigger">        
         	<a class="page-link" href="home">Home</a>
         	<a class="page-link" href="pricing">Pricing</a>
         	<a class="page-link" href="flavours">Flavours</a>
         	<a class="page-link" href="reviews">Reviews</a>
         	<a class="page-link" href="weddings">Weddings</a>
-
-          {%- for path in page_paths -%}
-            {%- assign my_page = site.pages | where: "path", path | first -%}
-            {%- if my_page.title -%}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-            {%- endif -%}
-          {%- endfor -%}
         </div>
       </nav>
     {%- endif -%}
