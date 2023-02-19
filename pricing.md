@@ -15,7 +15,7 @@ These can be made in a very wide range of flavours, shapes and sizes, to suit yo
 -  **Bespoke Designs** - custom designed just for you. 5" height fondant iced cakes with a high level of decorative detail. From £80 for a 6” round, iced and decorated cake (*serves 12–24*).<br />
 <span class="small">*Figurines, or additional hand-made decorations may be charged extra, depending on your choice of design.*</span>
 
--  **Extra tall and Drip cakes** – buttercream or ganache covered. With bespoke topper and decorations (e.g. drip, chocolates etc). From £100 for a 6” round cake - (*serves 24-30*).<br />
+-  **Extra tall cakes** – buttercream or ganache covered. With bespoke topper and decorations (e.g. drip, chocolates etc). From £100 for a 6” round cake - (*serves 24-30*).<br />
 <span class="small">*Figurines, or additional hand-made decorations may be charged extra, depending on your choice of design.*</span>
 
 -  **Tiered cakes** start from £130 for the smallest two tier options.<br /> 
