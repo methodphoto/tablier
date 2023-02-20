@@ -24,7 +24,7 @@ The detailed Art work of Van Gogh’s piece “The Starry Night “ was Amazing 
 *Shannon N.*
 
 <div class="gallery">
-	<img src="/tablier/assets/images/reviews.jpg" height="50%" alt="Starry Night Cake" /> 
+	<img src="/tablier/assets/images/reviews.jpg" height="50%" width="50%" alt="Starry Night Cake" /> 
 </div>
 
 Just before COVID became the new normal. Tablier cakes made a wonderful cake for my daughter. We were lucky enough to have a wonderful celebration for her with an absolutely delicious cake. Highly recommend. Thank you.<br />
