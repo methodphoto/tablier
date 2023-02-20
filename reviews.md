@@ -47,12 +47,12 @@ Janette made a lovely cake for my dad’s 90th birthday.  Her attention to detai
 </div>
 
 <div class="quote tint">
-Very happy & impressed with my boyfriend's 50th birthday cake. He's a heavy metal fan & loves Queensryche. This cake was incredible!<br />
+Very happy & impressed with my boyfriend's 50th birthday cake. He's a heavy metal fan & loves Queensryche. The cake was incredible!<br />
 <em>Dani S.</em>
 </div>
 
 <div class="quote">
-Thank you for Tommy’s first birthday cake absolutely wonderful.<br />
+Thank you for Tommy’s first birthday cake - absolutely wonderful.<br />
 <em>Adele G.</em>
 </div>
 
