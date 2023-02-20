@@ -93,7 +93,7 @@ I had the pleasure of Janette making my wedding cake for me, was recommended by 
 After searching high and low for a cake maker I came across Janette’s Facebook page. Her cakes look professional with lovely attention to detail. Once I’d passed on my brief to her, she was both helpful and informative from start to finish. <br />
 I can’t express how glad I am to have found her. The cake she made for my twin daughters’ 21st was stunning.....inside and out and tasted wonderful. <br />
 I highly recommend Tablier Cakes. <br />
-Thank you Janette!
+Thank you Janette! <br />
 <em>Mary H.</em>
 </div>
 
@@ -103,7 +103,7 @@ Can not recommend highly enough, incredibly helpful and happy to work with any i
 </div>
 
 <div class="quote tint">
-Absolutely loved my son Kyri's birthday cake. It was so tasty too, thank you very much - would recommend to anyone.
+Absolutely loved my son Kyri's birthday cake. It was so tasty too, thank you very much - would recommend to anyone. <br />
 <em>Sarah L.</em>
 </div>
 
