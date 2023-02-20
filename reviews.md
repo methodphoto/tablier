@@ -111,3 +111,38 @@ Absolutely loved my son Kyri's birthday cake. It was so tasty too, thank you ver
 Janette made a fantastic cake for my parents Diamond wedding celebration. The thought and care that went into the cake was so impressive - Janette made sure that the cake was personalised and created sketches so that we could agree on the end product . I was thrilled with the cake as were my parents.<br />
 <em>Jennie I.</em>
 </div>
+
+<div class="quote tint">
+Janette was amazing from start to finish, she goes above and beyond to make sure her cakes and designs are perfect! Our cakes were a huge hit at our wedding and nothing was too much trouble(even repairing our broken cake topper!). She has an amazing eye for detail, we loved that our cake had a dragon and a moon & star for our half Turkish/Welsh wedding. Thank you again, we will definitely be booking in the future!<br />
+<em>Yildiz T.</em>
+</div>
+
+<div class="quote">
+Wonderful cake for a colleague’s retirement. The attention to detail was amazing, you really got the essence of her in cake form! It tasted delicious too. Thank you so much! Would highly recommend!<br />
+<em>Julie B.</em>
+</div>
+
+<div class="quote tint">
+Janette made a wonderful 21st birthday cake for me, I showed her a picture of what I wanted but wanted to make some changes to the design, well the finished cake looked and tasted perfect even better than the picture thank you so much Janette, Janette even packed the cake so well as I had to travel miles and still the cake looked wonderful, would highly recommend Tablier Cakes<br />
+<em>Debbie M.</em>
+</div>
+
+<div class="quote">
+Janette designed a cake for our Mum's 70th birthday which brilliantly captured what we wanted - it looked amazing and everyone wanted a photo with it! Plus, it was completely delicious: vanilla sponge with buttercream and raspberry jam. Everyone loved it, especially Mum, and it contributed significantly to a wonderful day. Thanks so much for the brilliant work.<br />
+<em>Paul O’M.</em>
+</div>
+
+<div class="quote tint">
+Janette created a wonderful cake for my father in law's 84th birthday! The cake was  magnificent! Every single element was absolutely perfect. It was also really delicious! So much much better than a bakery cake. And Janette was a joy to work with! Her complete attention to every detail and her creativity are amazing. The  love and care she puts into her creation is abundantly apparent.  Thank you for making Dad's day truly special!<br />
+<em>Cheryl M.</em>
+</div>
+
+<div class="quote">
+Janette's cup cakes are simply amazing. I ordered 12 and was so impressed with them they not only looked fantasticly creative they tasted amazing. I took some to work and my team were also amazed with Janettes quality. Simply the best!<br />
+<em>Reyhan S.</em>
+</div>
+
+<div class="quote tint">
+I asked Tablier Cakes to design a cake for my sons 18th birthday He was really into computing . So Janette sent me some reference pictures and drawings that she had made ( they were beautiful in their own right !! ) Janette always comes up with amazing designs and is an amazing cake maker I would highly recommend her . It was the centre price of our party and tasted delicious too :))<br />
+<em>Andy W.</em>
+</div>
