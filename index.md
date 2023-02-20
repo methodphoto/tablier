@@ -38,7 +38,7 @@ I’m a very experienced artist and designer and can create most styles of cake 
 
 ## GALLERY
 
-Here is a small selection of my cakes.
+Here is a small selection of my previous cakes.
 
 My up-to-date cake portfolios can be viewed on my Tablier Cakes [Facebook](http://facebook.com/TablierCakes) and [Instagram](http://instagram.com/tabliercakes) pages - I don’t upload many onto this website.
 
