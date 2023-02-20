@@ -11,7 +11,7 @@ I will supply a written quotation based on the information you give to me, with 
 
 The balance payment for your cake will be due 14 days before your event. 
 
-Some examples of my work from sketches to finished cakes…
+Some examples of my work, from sketches to finished cakes…
 
 <div class="gallery">
 	<img src="/tablier/assets/images/sketch-01.jpg" alt="Starry Night Cake" /><br /><br />
