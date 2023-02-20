@@ -15,7 +15,7 @@ Here is a small selection:
 We have been ordering birthday cakes from Janette for the whole family several years in a row now. She always delivers the most beautiful, creative and delicious cakes and so reliable and on time. She is a joy to deal with and I absolutely recommend her baking! <br /> 
 *Elena T.*
 
-My daughter’s 21st Birthday cupcakes were absolutely beautiful and delicious. Janette delivered.<br />
+> My daughter’s 21st Birthday cupcakes were absolutely beautiful and delicious. Janette delivered.<br />
 I highly recommend Tablier Cakes - First class service!<br />
 *Rose McM.*
 
