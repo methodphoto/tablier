@@ -85,12 +85,12 @@ a:hover.page-link {
 	margin-bottom: 20px;
 }
 
-blockquote {
-	color: $primary-color !important;
-	font-size: 110% !important;
-	font-style: normal !important;
+.quote {
+	padding:5px;
+	border-radius: 3px;
+	margin-bottom: 8px;
 }
 
-.quote {
+.tint {
 	background-color: $primary-tint-color; 
 }
