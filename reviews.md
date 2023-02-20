@@ -19,7 +19,7 @@ We have been ordering birthday cakes from Janette for the whole family several y
 I highly recommend Tablier Cakes - First class service!<br />
 *Rose McM.*
 
-> Thank you so much for your beautiful creation it was a real work of Art! <br />
+Thank you so much for your beautiful creation it was a real work of Art! <br />
 The detailed Art work of Van Gogh’s piece “The Starry Night “ was Amazing ! Thank you so much.<br />
 *Shannon N.*
 
