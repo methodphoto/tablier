@@ -9,7 +9,7 @@ There are a large number of customer reviews and recommendations on my Tablier C
 
 Here is a small selection:
 
-With very short notice, Janette made a spectacular chocolate cake for my daughter’s 21st Birthday. It was exactly what she wanted and was delicious. Highly recommend. It tasted as good as it looked and it looked amazing.<br />
+> With very short notice, Janette made a spectacular chocolate cake for my daughter’s 21st Birthday. It was exactly what she wanted and was delicious. Highly recommend. It tasted as good as it looked and it looked amazing.<br />
 *Sharon D.*
 
 We have been ordering birthday cakes from Janette for the whole family several years in a row now. She always delivers the most beautiful, creative and delicious cakes and so reliable and on time. She is a joy to deal with and I absolutely recommend her baking! <br /> 
