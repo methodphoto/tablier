@@ -103,7 +103,7 @@ Can not recommend highly enough, incredibly helpful and happy to work with any i
 </div>
 
 <div class="quote tint">
-Absolutely loved my son Kyri's birthday cake. It was so tasty too thank you very much would recommend to anyone.
+Absolutely loved my son Kyri's birthday cake. It was so tasty too, thank you very much would recommend to anyone.
 <em>Sarah L.</em>
 </div>
 
