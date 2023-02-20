@@ -7,6 +7,11 @@ title: Reviews
 
 There are a large number of customer reviews and recommendations on my Tablier Cakes Facebook page - all of them have given me a rating of five stars.
 
+<div class="gallery">
+	<img src="/tablier//assets/images/reviews.jpg" alt="Starry Night Cake" /> 
+</div>
+
+
 Here is a small selection:
 
 > With very short notice, Janette made a spectacular chocolate cake for my daughter’s 21st Birthday. It was exactly what she wanted and was delicious. Highly recommend. It tasted as good as it looked and it looked amazing.<br />
