@@ -7,11 +7,6 @@ title: Reviews
 
 There are a large number of customer reviews and recommendations on my Tablier Cakes Facebook page - all of them have given me a rating of five stars.
 
-<div class="gallery">
-	<img src="/tablier//assets/images/reviews.jpg" alt="Starry Night Cake" /> 
-</div>
-
-
 Here is a small selection:
 
 > With very short notice, Janette made a spectacular chocolate cake for my daughter’s 21st Birthday. It was exactly what she wanted and was delicious. Highly recommend. It tasted as good as it looked and it looked amazing.<br />
@@ -27,6 +22,10 @@ I highly recommend Tablier Cakes - First class service!<br />
 Thank you so much for your beautiful creation it was a real work of Art! <br />
 The detailed Art work of Van Gogh’s piece “The Starry Night “ was Amazing ! Thank you so much.<br />
 *Shannon N.*
+
+<div class="gallery">
+	<img src="/tablier/assets/images/reviews.jpg" height="50%" alt="Starry Night Cake" /> 
+</div>
 
 Just before COVID became the new normal. Tablier cakes made a wonderful cake for my daughter. We were lucky enough to have a wonderful celebration for her with an absolutely delicious cake. Highly recommend. Thank you.<br />
 *Sharon L.*
