@@ -7,6 +7,7 @@
 $primary-color: #333f48;
 $primary-link-color: #268b89;
 $secondary-link-color: #8d5436;
+$primary-tint-color: #e3f7f7
 
 body {
 	font-family: Livory, serif;
@@ -88,4 +89,8 @@ blockquote {
 	color: $primary-color !important;
 	font-size: 110% !important;
 	font-style: normal !important;
+}
+
+.quote {
+	background-color: $primary-tint-color; 
 }
