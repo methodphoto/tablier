@@ -85,7 +85,7 @@ Thank you Janette and  I will recommend you to others.<br />
 </div>
 
 <div class="quote">
-I had the pleasure of Janette making my wedding cake for me, was recommended by a friend and was so happy, not only did it taste absolutely amazing but the attention to the detail of my cake was out of this world! Janette was so helpful when I gave her a idea of what I wanted, she came back with a amazing design! I had a 3 tier wedding cake with figurines of myself and my husband sat on the side of the cake, weddings can be stressful but janette made this process a joy, she also bought the cake over to my venue on the day to set up, when seeing it blew us both away, my guest couldn't stop taking about how amazing it was and tasted, I would highly recommend janette to anyone and most certainly be using her again for future cakes, thank you so much.<br />
+I had the pleasure of Janette making my wedding cake for me, was recommended by a friend and was so happy, not only did it taste absolutely amazing but the attention to the detail of my cake was out of this world! Janette was so helpful when I gave her a idea of what I wanted, she came back with a amazing design! I had a 3 tier wedding cake with figurines of myself and my husband sat on the side of the cake, weddings can be stressful but Janette made this process a joy, she also bought the cake over to my venue on the day to set up, when seeing it blew us both away, my guest couldn't stop taking about how amazing it was and tasted, I would highly recommend Janette to anyone and most certainly be using her again for future cakes, thank you so much.<br />
 <em>Liz B.</em>
 </div>
 
