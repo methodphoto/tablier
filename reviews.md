@@ -143,6 +143,6 @@ Janette's cup cakes are simply amazing. I ordered 12 and was so impressed with t
 </div>
 
 <div class="quote tint">
-I asked Tablier Cakes to design a cake for my sons 18th birthday He was really into computing . So Janette sent me some reference pictures and drawings that she had made ( they were beautiful in their own right !! ) Janette always comes up with amazing designs and is an amazing cake maker I would highly recommend her . It was the centre price of our party and tasted delicious too :))<br />
+I asked Tablier Cakes to design a cake for my son's 18th birthday He was really into computing. So Janette sent me some reference pictures and drawings that she had made (they were beautiful in their own right!!) Janette always comes up with amazing designs and is an amazing cake maker I would highly recommend her. It was the centre piece of our party and tasted delicious too :))<br />
 <em>Andy W.</em>
 </div>
