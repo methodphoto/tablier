@@ -14,11 +14,11 @@ The balance payment for your cake will be due 14 days before your event.
 Some examples of my work, from sketches to finished cakes…
 
 <div class="gallery">
-	<img src="/tablier/assets/images/sketch-01.jpg" alt="Starry Night Cake" /><br /><br />
-	<img src="/tablier/assets/images/sketch-02.jpg" alt="Starry Night Cake" /><br /><br />
-	<img src="/tablier/assets/images/sketch-03.jpg" alt="Starry Night Cake" /><br /><br />
-	<img src="/tablier/assets/images/sketch-04.jpg" alt="Starry Night Cake" /><br /><br />
-	<img src="/tablier/assets/images/sketch-05.jpg" alt="Starry Night Cake" /><br /><br />
-	<img src="/tablier/assets/images/sketch-06.jpg" alt="Starry Night Cake" /><br /><br />
-	<img src="/tablier/assets/images/sketch-07.jpg" alt="Starry Night Cake" /><br /><br />
+	<img src="/assets/images/sketch-01.jpg" alt="Starry Night Cake" /><br /><br />
+	<img src="/assets/images/sketch-02.jpg" alt="Starry Night Cake" /><br /><br />
+	<img src="/assets/images/sketch-03.jpg" alt="Starry Night Cake" /><br /><br />
+	<img src="/assets/images/sketch-04.jpg" alt="Starry Night Cake" /><br /><br />
+	<img src="/assets/images/sketch-05.jpg" alt="Starry Night Cake" /><br /><br />
+	<img src="/assets/images/sketch-06.jpg" alt="Starry Night Cake" /><br /><br />
+	<img src="/assets/images/sketch-07.jpg" alt="Starry Night Cake" /><br /><br />
 </div>

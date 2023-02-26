@@ -7,7 +7,7 @@ header: Cake Flavours & Fillings
 # {{page.header}}
 
 <div class="gallery">
-	<img src="/tablier/assets/images/samples.jpg" alt="Cake Samples" /> 
+	<img src="/assets/images/samples.jpg" alt="Cake Samples" /> 
 </div>
 
 All cakes are home baked from scratch using quality ingredients and are filled and layered with buttercream and curd or jam before being covered with a layer of buttercream or chocolate ganache. Iced celebration cakes are then covered with professional sugar paste.
