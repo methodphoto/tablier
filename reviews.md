@@ -113,7 +113,7 @@ Janette made a fantastic cake for my parents Diamond wedding celebration. The th
 </div>
 
 <div class="quote tint">
-Janette was amazing from start to finish, she goes above and beyond to make sure her cakes and designs are perfect! Our cakes were a huge hit at our wedding and nothing was too much trouble(even repairing our broken cake topper!). She has an amazing eye for detail, we loved that our cake had a dragon and a moon & star for our half Turkish/Welsh wedding. Thank you again, we will definitely be booking in the future!<br />
+Janette was amazing from start to finish, she goes above and beyond to make sure her cakes and designs are perfect! Our cakes were a huge hit at our wedding and nothing was too much trouble (even repairing our broken cake topper!). She has an amazing eye for detail, we loved that our cake had a dragon and a moon & star for our half Turkish/Welsh wedding. Thank you again, we will definitely be booking in the future!<br />
 <em>Yildiz T.</em>
 </div>
 
