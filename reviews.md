@@ -32,7 +32,7 @@ The detailed Art work of Van Gogh’s piece “The Starry Night “ was Amazing 
 </div>
 
 <div class="gallery">
-	<img src="/tablier/assets/images/reviews.jpg" height="50%" width="50%" alt="Starry Night Cake" /> 
+	<img src="/assets/images/reviews.jpg" height="50%" width="50%" alt="Starry Night Cake" /> 
 </div>
 
 
