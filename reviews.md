@@ -123,7 +123,7 @@ Wonderful cake for a colleague’s retirement. The attention to detail was amazi
 </div>
 
 <div class="quote tint">
-Janette made a wonderful 21st birthday cake for me, I showed her a picture of what I wanted but wanted to make some changes to the design, well the finished cake looked and tasted perfect even better than the picture thank you so much Janette, Janette even packed the cake so well as I had to travel miles and still the cake looked wonderful, would highly recommend Tablier Cakes<br />
+Janette made a wonderful 21st birthday cake for me, I showed her a picture of what I wanted but wanted to make some changes to the design, well the finished cake looked and tasted perfect even better than the picture thank you so much Janette. Janette even packed the cake so well as I had to travel miles and still the cake looked wonderful, would highly recommend Tablier Cakes<br />
 <em>Debbie M.</em>
 </div>
 
