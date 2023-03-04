@@ -18,7 +18,6 @@ Level 2 Food Hygiene, EHO Registered and full public liability insurance. Member
 -   [Reviews](reviews)
 -   [Weddings](weddings)
 
-
 ## LOCATION AND DELIVERY
 
 I am based in Enfield, North London. For cupcakes and celebration cakes, collection is preferred. Delivery can sometimes be arranged within the local area for a nominal fee, but this depends upon my baking schedule. 
