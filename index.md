@@ -10,8 +10,8 @@ header: Welcome to Tablier&nbsp;Cakes
 
 <div class="certification">
 	<div>
-<p>I also make simpler cakes, cupcakes, brownies, and iced biscuits.<br />
-Level 2 Food Hygiene, EHO Registered and full public liability insurance. Member of the Sugarcraft Guild.</p>
+I also make simpler cakes, cupcakes, brownies, and iced biscuits.<br />
+Level 2 Food Hygiene, EHO Registered and full public liability insurance. Member of the Sugarcraft Guild.
 	</div>
 	</div>
 		<img src="/assets/images/fhrs_5_en-gb.svg" alt="Food Hygene Rating 5" />
