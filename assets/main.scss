@@ -49,28 +49,26 @@ a:hover {
 	text-decoration: underline;
 }
 
-section {
+.container {
+  display: table;
+  height: 100%;
   width: 100%;
 }
 
-article {
-  position: relative;
-  top: 50%;
-  left: 50%;
-  padding: 1rem;
+div {
+  display: table-cell;
   text-align: center;
-  transform: translate(-50%, -50%);
+  vertical-align: middle;
+  width: 50%;
+  padding: 1rem;
 }
-
-.certification {display: inline;}
 
 .left-half {
-  float: left;
-  width: 50%;
+  background: white;
 }
+
 .right-half {
-  float: left;
-  width: 50%;
+  background: white;
 }
 
 .site-header {

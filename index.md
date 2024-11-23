@@ -8,9 +8,9 @@ header: Welcome to Tablier&nbsp;Cakes
 
 **Beautiful bespoke cakes, hand made to order by cake artist & graphic designer Janette Earney. Any design style, flavour and theme – created to match your individual brief.**
 
-I also make simpler cakes, cupcakes, brownies, and iced biscuits.<br />
+I also make simpler cakes, cupcakes, brownies, and iced biscuits.
 
-<section class="certification">
+<section class="container">
   <div class="left-half">
     <article>
       <p>Level 2 Food Hygiene, EHO Registered and full public liability insurance. Member of the Sugarcraft Guild.</p>
