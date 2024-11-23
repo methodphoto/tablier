@@ -49,15 +49,29 @@ a:hover {
 	text-decoration: underline;
 }
 
-.certification {display: inline;}
-
-.left: {align:left;}
-
-.right: {
-	align:right;
-	padding-left: 20px;
+section {
+  width: 100%;
 }
 
+article {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  padding: 1rem;
+  text-align: center;
+  transform: translate(-50%, -50%);
+}
+
+.certification {display: inline;}
+
+.left-half {
+  float: left;
+  width: 50%;
+}
+.right-half {
+  float: left;
+  width: 50%;
+}
 
 .site-header {
 	margin-top: 15px;
