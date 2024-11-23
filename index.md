@@ -14,8 +14,7 @@ Level 2 Food Hygiene, EHO Registered and full public liability insurance. Member
 
 <img src="/assets/images/fhrs_5_en-gb.svg" alt="Food Hygene Rating is 5" width="290px" />
 
-Last inspection: 22nd October 2024
- 
+<p class="u-email">Last inspection: 22nd October 2024</p>
 
 -   [Location and Delivery](#location-and-delivery)
 -   [Ordering](#ordering)
