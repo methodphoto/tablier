@@ -14,8 +14,8 @@ I also make simpler cakes, cupcakes, brownies, and iced biscuits.
      <div style="width: 50%; float: left;"> 
      	<ul>
 			<li>Level 2 Food Hygiene</li>
-			<li>EHO Registered and full public liability insurance/li>
-			<li>Member of the Sugarcraft Guild/li>
+			<li>EHO Registered and full public liability insurance</li>
+			<li>Member of the Sugarcraft Guild</li>
 		</ul>
 	</div>
 	<div style="margin-left: 200px;"> 
