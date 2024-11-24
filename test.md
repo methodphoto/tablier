@@ -16,7 +16,8 @@ I also make simpler cakes, cupcakes, brownies, and iced biscuits.
      <div style="width: 50%; float: left; vertical-align: middle;"> 
      	<ul>
 			<li>Level 2 Food Hygiene</li>
-			<li>EHO Registered and full public liability insurance</li>
+			<li>EHO Registered</li>
+			<li>Full public liability insurance</li>
 			<li>Member of the Sugarcraft Guild</li>
 			<li>Last inspection: 22nd October 2024</li>
 		</ul>
