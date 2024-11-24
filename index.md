@@ -40,6 +40,12 @@ My up-to-date cake portfolios can be viewed on my Tablier Cakes [Facebook](http:
 
 <div class="gallery">
 
+<img src="/assets/images/03.jpg" alt="A range of celebration cakes" width="90%" /> <br /><br />
+
+<img src="/assets/images/04.jpg" alt="A range of celebration cakes" width="90%" /> <br /><br />
+
+<img src="/assets/images/05.jpg" alt="A range of celebration cakes" width="90%" /> <br /><br />
+
 <img src="/assets/images/01.jpg" alt="A range of celebration cakes" width="90%" /> <br /><br />
 
 <img src="/assets/images/02.jpg" alt="A range of celebration cakes" width="90%" />
