@@ -6,26 +6,13 @@ header: Welcome to Tablier&nbsp;Cakes
 
 # {{page.header}}
 
-**Beautiful bespoke cakes, hand made to order by cake artist & graphic designer Janette Earney. Any design style, flavour and theme – created to match your individual brief.**
+**Beautiful bespoke cakes, hand made to order by cake artist & graphic designer Janette Earney. Any design style, flavour and theme – created to match your individual brief.<br />
+I also make simpler cakes, cupcakes, brownies, and iced biscuits.**
 
-I also make simpler cakes, cupcakes, brownies, and iced biscuits.
+Level 2 Food Hygiene, EHO Registered and full public liability insurance. Member of the Sugarcraft Guild.
 
-## CERTIFICATION
+<img src="/assets/images/fhrs_5_en-gb.svg" alt="Food Hygene Rating is 5" width="240px" />
 
- <div style="width: 100%; overflow: hidden;">
-     <div style="width: 50%; float: left; vertical-align: middle;"> 
-     	<ul>
-			<li>Level 2 Food Hygiene</li>
-			<li>EHO Registered</li>
-			<li>Full public liability insurance</li>
-			<li>Member of the Sugarcraft Guild</li>
-			<li>Last inspection: 22nd October 2024</li>
-		</ul>
-	</div>
-	<div style="margin-left: 55%;"> 
-     	<img src="/assets/images/fhrs_5_en-gb.svg" alt="Food Hygene Rating is 5" />
-	</div>
-</div>
 
 ## ORDERING
 
