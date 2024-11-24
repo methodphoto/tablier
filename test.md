@@ -11,7 +11,7 @@ header: Welcome to Tablier&nbsp;Cakes
 I also make simpler cakes, cupcakes, brownies, and iced biscuits.
 
  <div style="width: 100%; overflow: hidden;">
-     <div style="width: 50%; float: left;"> 
+     <div style="width: 50%; float: left; vertical-align: middle;"> 
      	<ul>
 			<li>Level 2 Food Hygiene</li>
 			<li>EHO Registered and full public liability insurance</li>
@@ -20,7 +20,7 @@ I also make simpler cakes, cupcakes, brownies, and iced biscuits.
 	</div>
 	<div style="margin-left: 200px;"> 
      	<img src="/assets/images/fhrs_5_en-gb.svg" alt="Food Hygene Rating is 5" width="290px" />
-     	<p class="u-email">Last inspection: 22nd October 2024</p> 
+     	<p class="u-email" style="align:right;">Last inspection: 22nd October 2024</p> 
 	</div>
 </div>
 
