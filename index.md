@@ -13,12 +13,6 @@ Level 2 Food Hygiene, EHO Registered and full public liability insurance. Member
 
 <img src="/assets/images/fhrs_5_en-gb.svg" alt="Food Hygene Rating is 5" width="240px" />
 
-## LOCATION AND DELIVERY
-
-I am based in Enfield, North London. For cupcakes and celebration cakes, collection is preferred. Delivery can sometimes be arranged within the local area for a nominal fee, but this depends upon my baking schedule. 
-
-Larger tiered cakes can be delivered and set up at your event venue for a fee of £30 plus my return mileage (and any congestion charges). I have delivered to some wide-ranging locations including Hertfordshire, Essex, Norfolk, Sussex, Hampshire, Devon as well as Central London and London postcodes.
-
 ## ORDERING
 
 The fastest way to contact me is to text or WhatsApp me on 07973 886805. 
@@ -26,6 +20,12 @@ The fastest way to contact me is to text or WhatsApp me on 07973 886805.
 Please try to get in touch early, as I am often booked up quite far in advance.
 
 I’m a very experienced artist and designer and can create most styles of cake for you. I will happily make a range of suggestions based on your brief and budget. To confirm your project in my schedule, I will require a non-returnable deposit of £25 for cupcakes or simple buttercream cakes, £30 for iced celebration cakes, or £50 for tiered cakes. Balance payments are due 7 days in advance of collection/delivery (14 days in advance for tiered cakes).
+
+## LOCATION AND DELIVERY
+
+I am based in Enfield, North London. For cupcakes and celebration cakes, collection is preferred. Delivery can sometimes be arranged within the local area for a nominal fee, but this depends upon my baking schedule. 
+
+Larger tiered cakes can be delivered and set up at your event venue for a fee of £30 plus my return mileage (and any congestion charges). I have delivered to some wide-ranging locations including Hertfordshire, Essex, Norfolk, Sussex, Hampshire, Devon as well as Central London and London postcodes.
 
 ## GALLERY
 
