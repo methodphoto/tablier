@@ -27,10 +27,20 @@ I also make simpler cakes, cupcakes, brownies, and iced biscuits.
 
 <div class="float-parent-element">
 	<div class="float-child-element">
-		<div class="red">Float Column 1</div>
+		<div class="red">
+			<ul>
+				<li>Level 2 Food Hygiene</li>
+				<li>EHO Registered and full public liability insurance</li>
+				<li>Member of the Sugarcraft Guild</li>
+			</ul>
+		</div>
 	</div>
 	<div class="float-child-element">
-		<div class="yellow">Float Column 2</div>
+		<div class="yellow">
+		<img src="/assets/images/fhrs_5_en-gb.svg" alt="Food Hygene Rating is 5" width="290px" />
+     	<p class="u-email" style="text-align:right;">Last inspection: 22nd October 2024</p> 
+		
+		</div>
 	</div>
 </div>
 
