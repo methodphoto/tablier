@@ -25,6 +25,18 @@ I also make simpler cakes, cupcakes, brownies, and iced biscuits.
 </div>
 
 
+<div class="float-parent-element">
+      <div class="float-child-element">
+        <div class="red">Float Column 1</div>
+      </div>
+      <div class="float-child-element">
+        <div class="yellow">Float Column 2</div>
+      </div>
+    </div>
+
+
+
+
 -   [Location and Delivery](#location-and-delivery)
 -   [Ordering](#ordering)
 -   [Pricing](pricing)
