@@ -9,16 +9,14 @@ header: Welcome to Tablier&nbsp;Cakes
 **Beautiful bespoke cakes, hand made to order by cake artist & graphic designer Janette Earney. Any design style, flavour and theme – created to match your individual brief.<br />
 I also make simpler cakes, cupcakes, brownies, and iced biscuits.**
 
-Level 2 Food Hygiene, EHO Registered and full public liability insurance. Member of the Sugarcraft Guild.
+Level 2 Food Hygiene, EHO Registered 5 Star Rating and full public liability insurance. Member of the Sugarcraft Guild.
 
 <img src="/assets/images/fhrs_5_en-gb.svg" alt="Food Hygene Rating is 5" width="240px" />
 
 
 ## ORDERING
 
-The fastest way to contact me is to text or WhatsApp me on 07973 886805. 
-
-Please try to get in touch early, as I am often booked up quite far in advance.
+The fastest way to contact me is to text or WhatsApp me on **07973 886805**. Please try to get in touch early, as I am often booked up quite far in advance.
 
 To confirm your project in my schedule, I will require a non-returnable deposit of 
 
