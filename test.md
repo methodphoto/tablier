@@ -18,7 +18,7 @@ I also make simpler cakes, cupcakes, brownies, and iced biscuits.
 			<li>Member of the Sugarcraft Guild</li>
 		</ul>
 	</div>
-	<div style="margin-left: 500px;"> 
+	<div style="margin-left: 450px;"> 
      	<img src="/assets/images/fhrs_5_en-gb.svg" alt="Food Hygene Rating is 5" width="290px" />
      	<p class="u-email" style="text-align:right;">Last inspection: 22nd October 2024</p> 
 	</div>
