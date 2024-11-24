@@ -21,8 +21,8 @@ I also make simpler cakes, cupcakes, brownies, and iced biscuits.
 			<li>Last inspection: 22nd October 2024</li>
 		</ul>
 	</div>
-	<div style="margin-left: 45%;"> 
-     	<img src="/assets/images/fhrs_5_en-gb.svg" alt="Food Hygene Rating is 5" width="45%" />
+	<div style="margin-left: 50%;"> 
+     	<img src="/assets/images/fhrs_5_en-gb.svg" alt="Food Hygene Rating is 5" />
 	</div>
 </div>
 
