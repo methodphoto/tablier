@@ -15,7 +15,7 @@ These can be made in a very wide range of flavours, shapes and sizes, to suit yo
 -  **Bespoke designs** - From £100 for a 6” round, iced and decorated cake (*serves 12–24*).<br />
 <span class="small">*Figurines, or additional hand-made decorations may be charged extra, depending on your choice of design.*</span>
 
--  **Extra tall cakes** – From £120
+-  **Extra tall cakes** – From £130
 
 -  **Tiered cakes** start from £140 for the smallest two tier options.<br /> 
 <span class="small">*Prices for larger sizes on request.*</span> 
