@@ -12,13 +12,12 @@ Prices vary depending on the size, shape and height of the cake required and the
 
 These can be made in a very wide range of flavours, shapes and sizes, to suit your brief.
 
--  **Bespoke designs** - custom designed just for you. 5" height fondant iced cakes with a high level of decorative detail. From £85 for a 6” round, iced and decorated cake (*serves 12–24*).<br />
+-  **Bespoke designs** - From £100 for a 6” round, iced and decorated cake (*serves 12–24*).<br />
 <span class="small">*Figurines, or additional hand-made decorations may be charged extra, depending on your choice of design.*</span>
 
--  **Extra tall cakes** – buttercream or ganache covered. With bespoke topper and decorations (e.g. drip, chocolates etc). From £105 for a 6” round cake - (*serves 24+).<br />
-<span class="small">*Figurines, or additional hand-made decorations may be charged extra, depending on your choice of design.*</span>
+-  **Extra tall cakes** – From £120
 
--  **Tiered cakes** start from £135 for the smallest two tier options.<br /> 
+-  **Tiered cakes** start from £140 for the smallest two tier options.<br /> 
 <span class="small">*Prices for larger sizes on request.*</span> 
 
 -  **Hand-carved illusion cakes** from £150 e.g. designer handbags, cameras, cars, musical instruments, animals.
@@ -29,7 +28,7 @@ These can be made in a very wide range of flavours, shapes and sizes, to suit yo
 
 -  **Fondant-iced cakes**
 Standard 3” height, fondant-iced sponge cakes, in vanilla or chocolate only, with ribbon and message only on a plain board. 
-From £50 for a 6” round cake (*serves 12–24*). 
+From £55 for a 6” round cake (*serves 12–24*). 
 <span class="small">*Decorations, bespoke flavours, other shapes are charged extra.*</span>
 
 ### Extras
